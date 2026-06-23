@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class AniketKumarSingh:
+AniketKumarSingh:
     university  = "VIT Bhopal University"
     degree      = "B.Tech — Computer Science & Engineering (2024–2028)"
     year        = "3rd Year"
@@ -178,7 +178,7 @@ class AniketKumarSingh:
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ANIKET640-a11y&theme=darkhub&no-frame=true&column=6&margin-w=10)
+
 
 </div>
 
@@ -186,6 +186,8 @@ class AniketKumarSingh:
 - 📜 **Google / Coursera** — Machine Learning Specialization
 - 📜 **NPTEL** — Artificial Intelligence & Machine Learning
 - 📜 **Forage** — AI Engineering Virtual Experience (American Express)
+- 📜 **Forage** — Software Engineering Job Simulation (Electronic Arts)
+- 📜 **Forage** — Data Analytics Job Simulation (Deloitte Austrailia)
 
 ---
 
