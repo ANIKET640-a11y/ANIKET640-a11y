@@ -196,7 +196,7 @@ AniketKumarSingh:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANIKET640--a11y-181717?style=for-the-badge&logo=github)](https://github.com/ANIKET640-a11y)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aniket-kumar-singh-b12486330/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Anikett666-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anikett666/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
