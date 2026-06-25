@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class AniketKumarSingh:
+AniketKumarSingh:
     university  = "VIT Bhopal University"
     degree      = "B.Tech — Computer Science & Engineering (2024–2028)"
     year        = "3rd Year"
