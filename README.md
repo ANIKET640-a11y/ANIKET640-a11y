@@ -63,7 +63,7 @@ AniketKumarSingh:
 ### 🌿 Plant Disease Detection
 **Bilingual Crop Health AI System**
 
-- TensorFlow CNN · Laguages: Hindi and English
+- TensorFlow CNN · Languages: Hindi and English
 - Scan History · PDF Reports
 - plantpulse AI and Voice aAsistant
 
