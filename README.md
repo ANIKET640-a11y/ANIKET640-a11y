@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 ```python
-AniketKumarSingh:
+class AniketKumarSingh:
     university  = "VIT Bhopal University"
     degree      = "B.Tech — Computer Science & Engineering (2024–2028)"
     year        = "3rd Year"
@@ -44,23 +44,6 @@ AniketKumarSingh:
 <tr>
 <td width="50%">
 
-### 🏦 FraudGuardAI
-**Bank Fraud Detection System**
-
-- SMOTE · Random Forest · SHAP Explainability
-- ROC-AUC ~0.98 · PDF Reports · Dark/Light Mode
-- Amex-inspired professional dashboard
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ANIKET640-a11y)
-
-</td>
-<td width="50%">
-
 ### 🎬 WatchWise
 **AI Movie Recommendation Platform**
 
@@ -75,8 +58,6 @@ AniketKumarSingh:
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ANIKET640-a11y)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🌿 Plant Disease Detection
@@ -93,9 +74,32 @@ AniketKumarSingh:
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ANIKET640-a11y)
 
 </td>
+</tr>
+</table>
+
+---
+
+## 🔨 Coming Soon
+
+<table>
+<tr>
 <td width="50%">
 
-### 📊 More Coming Soon...
+### 🏦 FraudGuardAI
+**Bank Fraud Detection System**
+
+- SMOTE · Random Forest · SHAP Explainability
+- ROC-AUC ~0.98 · PDF Reports · Dark/Light Mode
+- Amex-inspired professional dashboard
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📊 More Projects...
 **Always building something new**
 
 - Sports Analytics Projects
@@ -176,18 +180,14 @@ AniketKumarSingh:
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
 
-
-
-</div>
 
 - 🎖️ **NDA Written Exam Cleared**
-- 📜 **Google / Coursera** — Machine Learning Specialization
-- 📜 **NPTEL** — Artificial Intelligence & Machine Learning
+- 📜 **Google / Coursera** — Bits and Bytes of Computer Network
+- 📜 **NPTEL** — Cloud Computing
 - 📜 **Forage** — AI Engineering Virtual Experience (American Express)
-- 📜 **Forage** — Software Engineering Job Simulation (Electronic Arts)
 - 📜 **Forage** — Data Analytics Job Simulation (Deloitte Austrailia)
+- 📜 **Forage** — Software Engineerng Job Simulation (EA)
 
 ---
 
@@ -196,7 +196,7 @@ AniketKumarSingh:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANIKET640--a11y-181717?style=for-the-badge&logo=github)](https://github.com/ANIKET640-a11y)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aniket-kumar-singh-b12486330/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Anikett666-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anikett666/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
