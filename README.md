@@ -180,11 +180,7 @@ class AniketKumarSingh:
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ANIKET640-a11y&theme=darkhub&no-frame=true&column=6&margin-w=10)
-
-</div>
 
 - 🎖️ **NDA Written Exam Cleared**
 - 📜 **Google / Coursera** — Bits and Bytes of Computer Network
