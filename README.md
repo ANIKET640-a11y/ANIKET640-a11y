@@ -61,11 +61,11 @@ AniketKumarSingh:
 <td width="50%">
 
 ### 🌿 Plant Disease Detection
-**Multilingual Crop Health AI System**
+**Bilingual Crop Health AI System**
 
-- TensorFlow CNN · 6 Indian Languages
+- TensorFlow CNN · Laguages: Hindi and English
 - Scan History · PDF Reports
-- Mobile-friendly React Frontend
+- plantpulse AI and Voice aAsistant
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
