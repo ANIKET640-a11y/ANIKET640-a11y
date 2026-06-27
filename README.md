@@ -74,15 +74,7 @@ AniketKumarSingh:
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ANIKET640-a11y)
 
 </td>
-</tr>
-</table>
 
----
-
-## 🔨 Coming Soon
-
-<table>
-<tr>
 <td width="50%">
 
 ### 🏦 FraudGuardAI
@@ -97,6 +89,16 @@ AniketKumarSingh:
 ![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
+</tr>
+</table>
+
+---
+
+## 🔨 Coming Soon
+
+<table>
+<tr>
+
 <td width="50%">
 
 ### 📊 More Projects...
