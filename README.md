@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 ```python
-    Name        = "Aniket Kumar Singh"
+AniketKumarSingh:
     university  = "VIT Bhopal University"
     degree      = "B.Tech — Computer Science & Engineering (2024–2028)"
     year        = "3rd Year"
@@ -75,13 +75,6 @@
 
 </td>
 </tr>
-</table>
-
----
-
-## 🔨 Coming Soon
-
-<table>
 <tr>
 <td width="50%">
 
@@ -95,6 +88,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ANIKET640-a11y)
 
 </td>
 <td width="50%">
@@ -114,6 +109,12 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🔨 Coming Soon
+
+- 🚧 More AI/ML projects in progress — stay tuned!
 
 ---
 
