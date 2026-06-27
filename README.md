@@ -74,7 +74,9 @@ AniketKumarSingh:
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ANIKET640-a11y)
 
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 
 ### 🏦 FraudGuardAI
