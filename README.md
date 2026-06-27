@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 ```python
-AniketKumarSingh:
+Aniket Kumar Singh:
     university  = "VIT Bhopal University"
     degree      = "B.Tech — Computer Science & Engineering (2024–2028)"
     year        = "3rd Year"
@@ -92,21 +92,7 @@ AniketKumarSingh:
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ANIKET640-a11y)
 
 </td>
-<td width="50%">
 
-### 📊 More Projects...
-**Always building something new**
-
-- Sports Analytics Projects
-- World Cup Match Predictor
-- Real-time Sentiment Tracker
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-[![Profile](https://img.shields.io/badge/All%20Projects-181717?style=flat-square&logo=github)](https://github.com/ANIKET640-a11y?tab=repositories)
-
-</td>
 </tr>
 </table>
 
