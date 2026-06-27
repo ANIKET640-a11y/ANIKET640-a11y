@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 ```python
-AniketKumarSingh:
+    Name        = "Aniket Kumar Singh"
     university  = "VIT Bhopal University"
     degree      = "B.Tech — Computer Science & Engineering (2024–2028)"
     year        = "3rd Year"
@@ -61,11 +61,11 @@ AniketKumarSingh:
 <td width="50%">
 
 ### 🌿 Plant Disease Detection
-**Bilingual Crop Health AI System**
+**Multilingual Crop Health AI System**
 
-- TensorFlow CNN · Languages: Hindi and English
+- TensorFlow CNN · 6 Indian Languages
 - Scan History · PDF Reports
-- plantpulse AI and Voice aAsistant
+- Mobile-friendly React Frontend
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -75,7 +75,13 @@ AniketKumarSingh:
 
 </td>
 </tr>
+</table>
 
+---
+
+## 🔨 Coming Soon
+
+<table>
 <tr>
 <td width="50%">
 
@@ -91,16 +97,6 @@ AniketKumarSingh:
 ![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
-</tr>
-</table>
-
----
-
-## 🔨 Coming Soon
-
-<table>
-<tr>
-
 <td width="50%">
 
 ### 📊 More Projects...
@@ -184,7 +180,11 @@ AniketKumarSingh:
 
 ## 🏆 Achievements & Certifications
 
+<div align="center">
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=ANIKET640-a11y&theme=darkhub&no-frame=true&column=6&margin-w=10)
+
+</div>
 
 - 🎖️ **NDA Written Exam Cleared**
 - 📜 **Google / Coursera** — Bits and Bytes of Computer Network
